@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(224, 236, 233);
+}
+.contonair{
+    text-align: center;
+}
+.sous-contonair{
+    margin-top:30vh;
+}
+#btn1, #btn2, #btn3{
+    border-radius: 8px;
+    width: 54px;
+    height: 28px;
+    cursor: pointer;
+    transition: 0.7s ease-in-out;
+}
+#spn{font-size: 55px;}
+.btn{margin-top: 62px;}
+#btn1:hover{
+    background-color: black;
+    color: white;
+}
+#btn3:hover{
+    background-color: black;
+    color: white;
+}#btn2:hover{
+    background-color: black;
+    color: white;
+}
