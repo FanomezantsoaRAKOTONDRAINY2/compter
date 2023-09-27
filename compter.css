@@ -21,3 +21,48 @@
     background-color: black;
     color: white;
 }
+
+.contonaire{
+    text-align: center;
+}
+.sous-contonaire{
+    margin-top: 105px;
+}
+.sous-contonaire1{
+    background-color: white;
+    border-radius: 34px;
+    height: 14%;
+    width: 40%;
+    margin-left: 30%;
+    box-shadow: blue;
+}
+.our{
+    background-color: blue;
+    width: 60px;
+    height: 5px;
+    margin-left: 45%;
+    border-radius: 34px;
+    margin-bottom: 5%;
+}
+.personne{
+background-color: rgb(51, 51, 221);
+width: 80px;
+height: 80px;
+border-radius: 42px;
+margin-left: 34%;
+
+}
+.personne img{
+    width: 84px;
+    height: 84px;
+    border-radius: 43px;
+    margin-left: -19%;
+}
+.description{
+    width: 70%;
+    font-size: 12px;
+    margin-left: 15%;
+}
+#f-btn{
+   border-radius: 12px;
+}
